@@ -22,10 +22,10 @@ port: 3000
 
 db:
   type: postgres
-  host: ep-restless-thunder-a9ujhenk-pooler.gwc.azure.neon.tech
+  host: ep-rapid-band-a2u7hbfx-pooler.eu-central-1.aws.neon.tech
   port: 5432
-  user: admin
-  pass: npg_u3RUf5kYKodg
+  user: neondb_owner
+  pass: npg_8w7FamGlJteo
   db: neondb
   ssl: true
 
